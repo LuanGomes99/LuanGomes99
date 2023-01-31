@@ -3,13 +3,13 @@
 </div>
 </br>
 <div align="center">
-  <div align="center">
+  <div align="left">
   <a href="https://github.com/LuanGomes99">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=formandodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </div>
 </br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGomes99&layout=compact&langs_count=7&theme=dracula"/>
+  <div align="left">
+    <img height="113em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGomes99&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </div>
 </br>
