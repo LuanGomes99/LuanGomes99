@@ -1,6 +1,18 @@
 ## Olá! Eu sou o Luan Gomes!
 
-
+</div>
+</br>
+<div align="center">
+  <div align="center">
+  <a href="https://github.com/LuanGomes99">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=formandodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </div>
+</br>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGomes99&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+</div>
+</br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
