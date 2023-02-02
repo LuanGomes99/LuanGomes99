@@ -1,16 +1,12 @@
 ## Olá! Eu sou o Luan Gomes!
+- 🌱 Atualmente estudando JavaScript!
 
 </div>
 </br>
 <div align="center">
-  <div align="left">
-  <a href="https://github.com/LuanGomes99">
-     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LuanGomes99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    </div>
-</br>
-  <div align="left">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGomes99&layout=compact&langs_count=7&theme=dracula">
-</div>
+  <a href="https://github.com/renanolv7">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LuanGomes99&show_icons=true&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGomes99&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </br>
 
