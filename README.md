@@ -15,7 +15,7 @@
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/990296596849782804/1162930569320083506/Skelleton.gif?ex=653dba7d&is=652b457d&hm=b3888fe7384e6562ef693150c6ae8d184f8ae9b1d8aa4f60cabf56a295b07b73&">
+  <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 </div>
   
   ##
