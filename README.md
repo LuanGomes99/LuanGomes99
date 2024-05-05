@@ -17,7 +17,6 @@
   <img align="center" alt="Luan-React" height="30" width="40" src="https://www.svgrepo.com/show/452092/react.svg">
   <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://www.svgrepo.com/show/452184/csharp.svg">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://www.svgrepo.com/show/452088/php.svg">
   <img align="right" alt="Luan-pic" height="150" src="https://i.pinimg.com/originals/bc/02/fe/bc02fee1ff220972b58ef1b93eef47b8.gif">
 </div>
   
