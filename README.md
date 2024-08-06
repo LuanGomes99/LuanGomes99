@@ -1,5 +1,4 @@
 ## Olá! Eu sou o Luan Gomes!
-- 🌱 Atualmente estudando JavaScript e React!
 
 </div>
 </br>
