@@ -98,7 +98,7 @@ Me chamo Luan Gomes, tenho 18 anos e sou de São Paulo. Concluí o ensino médio
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LuanGomes99&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
@@ -106,7 +106,7 @@ Me chamo Luan Gomes, tenho 18 anos e sou de São Paulo. Concluí o ensino médio
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGomes99&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
