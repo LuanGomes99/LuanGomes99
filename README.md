@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Luan Gomes
 
-**`Desenvolvedor Web`**
+**`Desenvolvedor Web | Mobile`**
 
 Me chamo Luan Gomes, tenho 18 anos e sou de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e pela busca de novos conhecimentos.
 
