@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web | Mobile`**
 
-Me chamo Luan Gomes, tenho 18 anos e sou de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e pela busca de novos conhecimentos.
+Me chamo Luan Gomes, tenho 18 anos e sou do interior de São Paulo. Estou concluindo o ensino médio na ETEC, integrado ao curso técnico em Desenvolvimento de Sistemas. Buscar novos conhecimentos e a evolução da tecnologia são coisas que me fascinam.
 
 ---
 
