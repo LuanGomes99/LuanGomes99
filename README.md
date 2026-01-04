@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web | Mobile`**
 
-Me chamo Luan Gomes, tenho 18 anos e sou do interior de São Paulo. Estou concluindo o ensino médio na ETEC, integrado ao curso técnico em Desenvolvimento de Sistemas. Buscar novos conhecimentos e a evolução da tecnologia são coisas que me fascinam.
+Técnico em Desenvolvimento de Sistemas, com foco em programação e aprendizado contínuo. Desenvolvo soluções utilizando tecnologia de forma prática e eficiente, buscando sempre gerar impacto, evoluir tecnicamente e contribuir com projetos que valorizam inovação e crescimento.
 
 ---
 
@@ -91,23 +91,3 @@ Me chamo Luan Gomes, tenho 18 anos e sou do interior de São Paulo. Estou conclu
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LuanGomes99&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanGomes99&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
