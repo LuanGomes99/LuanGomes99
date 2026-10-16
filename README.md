@@ -46,11 +46,8 @@ Aqui você encontra meus projetos, estudos e experimentos. Fique à vontade para
 | [**💡 Lumes**](https://luangomes.com.br) | Site da Lumes, meu estúdio de criação de sites, sistemas web e automação com IA, com formulário de diagnóstico que salva o contato e avisa por e-mail. *Repositório privado* | `Next.js` `Tailwind` `Supabase` |
 | [**🧾 Emissor de Nota de Débito**](https://notadebito.vrinfo.digital/) | Ferramenta simples: preenche os dados de emitente e cliente e gera a nota de débito em PDF, pronta para baixar. *Repositório privado* | `React` `Vite` `Tailwind` |
 | [**🚀 todolist-rocket**](https://github.com/LuanGomes99/todolist-rocket) | API de lista de tarefas com cadastro e autenticação de usuário, feita no curso de Java da Rocketseat e publicada com Docker | `Java` `Spring Boot` |
-| [**🎯 mentalista**](https://github.com/LuanGomes99/mentalista) | Jogo de adivinhação: descubra o número secreto sorteado pelo sistema | `JavaScript` |
-| [**💱 conversor-de-moedas**](https://github.com/LuanGomes99/conversor-de-moedas) | Conversor de moedas simples e direto ao ponto | `JavaScript` |
 | [**✅ todolist-angular**](https://github.com/LuanGomes99/todolist-angular) | Lista de tarefas feita em Angular | `TypeScript` `Angular` |
 | [**🏦 java-finance**](https://github.com/LuanGomes99/java-finance) | Sistema bancário no console: extrato, saldo, depósitos e saques em um menu interativo | `Java` |
-| [**🌐 maonaroda-site**](https://github.com/LuanGomes99/maonaroda-site) | Site institucional | `HTML` `CSS` |
 
 <br/>
 
