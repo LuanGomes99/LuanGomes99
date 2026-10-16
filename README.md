@@ -42,6 +42,10 @@ Aqui você encontra meus projetos, estudos e experimentos. Fique à vontade para
 
 | Projeto | O que é | Tecnologia |
 | :-- | :-- | :-- |
+| [**🏁 Linha de Chegada**](https://linhadechegada.app) | Hub de corridas de rua do Brasil: um robô coleta provas de calendários e plataformas de inscrição, remove duplicadas e publica data, preço e inscrição conferidos na fonte. *Em desenvolvimento · repositório privado* | `Next.js` `TypeScript` `PostgreSQL` |
+| [**💡 Lumes**](https://luangomes.com.br) | Site da Lumes, meu estúdio de criação de sites, sistemas web e automação com IA, com formulário de diagnóstico que salva o contato e avisa por e-mail. *Repositório privado* | `Next.js` `Tailwind` `Supabase` |
+| [**🧾 Emissor de Nota de Débito**](https://notadebito.vrinfo.digital/) | Ferramenta simples: preenche os dados de emitente e cliente e gera a nota de débito em PDF, pronta para baixar. *Repositório privado* | `React` `Vite` `Tailwind` |
+| [**🚀 todolist-rocket**](https://github.com/LuanGomes99/todolist-rocket) | API de lista de tarefas com cadastro e autenticação de usuário, feita no curso de Java da Rocketseat e publicada com Docker | `Java` `Spring Boot` |
 | [**🎯 mentalista**](https://github.com/LuanGomes99/mentalista) | Jogo de adivinhação: descubra o número secreto sorteado pelo sistema | `JavaScript` |
 | [**💱 conversor-de-moedas**](https://github.com/LuanGomes99/conversor-de-moedas) | Conversor de moedas simples e direto ao ponto | `JavaScript` |
 | [**✅ todolist-angular**](https://github.com/LuanGomes99/todolist-angular) | Lista de tarefas feita em Angular | `TypeScript` `Angular` |
@@ -52,8 +56,12 @@ Aqui você encontra meus projetos, estudos e experimentos. Fique à vontade para
 
 ## 🌱 Em foco agora
 
-- 🅰️ Praticando **Angular** e **TypeScript** em projetos de estudo
-- ☕ Evoluindo na lógica e na orientação a objetos com **Java**
+- ⚡ Construindo o **Linha de Chegada** com **Next.js 16** (App Router), **React 19** e **TypeScript**
+- 🐘 Modelando dados com **PostgreSQL** + **PostGIS** e **Drizzle ORM**, com migrações versionadas
+- 🕷️ Criando robôs de coleta com **Cheerio** e filas com **pg-boss**, respeitando robots.txt e o limite de cada site
+- 📦 Organizando o código em monorepo com **pnpm workspaces**, separando regras de negócio, banco e coleta
+- 🤖 Automatizando a rotina diária com **GitHub Actions** e publicando na **Vercel** com banco **Neon**
+- 🔐 Estudando autenticação com **Better Auth** e testes automatizados com **Vitest**
 - 🎨 Caprichando em interfaces que sejam bonitas e fáceis de usar
 - 🤝 Aberto a conversar sobre projetos, vagas e colaborações
 
